@@ -1,7 +1,7 @@
 body{
   background: #ccc
 }
-#title. .subtitle.  .post_title. {
+#title, .subtitle,  .post_title { /*Ao final da palvra é "," e estava com "." / a ultima palavra não precisa de "," */
   color: blue;
 }
 
